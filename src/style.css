@@ -33,6 +33,7 @@ li:first-letter {
 
 input.btn {
   background-color: #EC6E4C;
+  border: none;
 }
 
 .weather-app-wrapper {
