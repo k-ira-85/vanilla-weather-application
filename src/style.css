@@ -27,7 +27,7 @@ body {
   }
 
   .container {
-    background-image: url("src/clouds-bg.jpg");;
+    background-image: url("clouds-bg.jpg");
   }
   
   li:first-letter {
