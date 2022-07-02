@@ -75,7 +75,7 @@ input.btn {
   cursor: default;
 }
 
-a #celsius-link {
+a#celsius-link {
   text-decoration: none;
 }
 
