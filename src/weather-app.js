@@ -30,7 +30,7 @@ function formatDay(timestamp) {
   return days[day];
 }
 
-function displayForecast(response) {
+/**function displayForecast(response) {
   let forecast = response.data.daily;
 
   let forecastElement = document.querySelector("#forecast");
@@ -65,7 +65,7 @@ function displayForecast(response) {
 
   forecastHTML = forecastHTML + `</div>`;
   forecastElement.innerHTML = forecastHTML;
-}
+}*/
 
 function getForecast(coordinates) {
   let apiKey = "5f472b7acba333cd8a035ea85a0d4d4c";
