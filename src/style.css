@@ -43,6 +43,7 @@ input.btn {
 
 .weather-app {
   padding: 32px;
+  margin: 0 auto;
   border: 2px solid #dadde1;
   border-radius: 5px;
 }
