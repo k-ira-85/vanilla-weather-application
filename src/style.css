@@ -4,9 +4,9 @@ body {
 }
 
 h1 {
-  color: #878787;
+  color: #212121;
   font-size: 24px;
-  font-weight: 100;
+  font-weight: 500;
   line-height: 28px;
   margin-bottom: 0;
 }
@@ -21,9 +21,9 @@ li {
   margin: 0;
   padding: 0;
 
-  color: rgb(135, 135, 135);
+  color: #212121;
   font-size: 16px;
-  font-weight: 100;
+  font-weight: 200;
   line-height: 19px;
 }
 
@@ -43,7 +43,7 @@ input.btn {
 
 .weather-app {
   padding: 20px;
-  border: 1px solid #dadde1;
+  border: 1px solid #212121;
   border-radius: 5px;
 }
 
