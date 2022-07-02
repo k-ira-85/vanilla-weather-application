@@ -38,7 +38,7 @@ input.btn {
 
 .weather-app-wrapper {
   max-width: 600px;
-  margin: auto auto;
+  margin: 50% auto;
 }
 
 .weather-app {
