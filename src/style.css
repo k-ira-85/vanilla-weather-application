@@ -75,6 +75,10 @@ input.btn {
   cursor: default;
 }
 
+a celsius-link:active {
+  text-decoration: none;
+}
+
 .weather-temperature .active:hover {
   text-decoration: none;
 }
