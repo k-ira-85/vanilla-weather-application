@@ -79,6 +79,10 @@ a#celsius-link {
   text-decoration: none;
 }
 
+a#fahrengeit-link {
+  text-decoration: none;
+}
+
 .weather-temperature .active:hover {
   text-decoration: none;
 }
