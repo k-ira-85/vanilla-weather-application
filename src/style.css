@@ -39,12 +39,12 @@ input.btn {
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
+  border: 2px solid #dadde1;
+  border-radius: 5px;
 }
 
 .weather-app {
   padding: 32px;
-  border: 2px solid #dadde1;
-  border-radius: 5px;
 }
 
 .overview {
@@ -107,5 +107,8 @@ a#fahrenheit-link {
 }
 
 small {
+  display: block;
   font-weight: 300;
+  padding-top: 24px;
+  padding-left: 28px;
 }
