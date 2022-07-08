@@ -38,9 +38,14 @@ input.btn {
 
 .weather-app-wrapper {
   max-width: 600px;
+  background: #fff;
   margin: 30px auto;
-  border: 2px solid #dadde1;
-  border-radius: 5px;
+  border: 1px solid #fff;
+  border-radius: 16px;
+}
+
+.form-control {
+  border: 2px solid rgb(156, 196, 243);
 }
 
 .weather-app {
@@ -106,9 +111,19 @@ a#fahrenheit-link {
   font-size: 13px;
 }
 
+div#forecast.weather-forecast {
+  background: #c8e4f5;
+  padding: 24px 0; 
+  max-width: 600px;
+}
+
 small {
   display: block;
   font-weight: 300;
   padding-top: 24px;
   padding-left: 28px;
+}
+
+small a {
+  color: rgb(125, 157, 194);
 }
